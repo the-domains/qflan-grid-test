@@ -1,0 +1,14 @@
+layout_spectrum: 0.6701793749816716
+typography_spectrum: 0.31747970916330814
+color:
+  brandStrength: 0.24718882679007947
+  lightness: 0.6908975993283093
+  saturation: 0.7687437429558486
+  rhythmicContrast: 0.5324707976542413
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: QFLAN GRID TEST
